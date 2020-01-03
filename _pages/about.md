@@ -11,17 +11,20 @@ toc: true
 * Ph.D., Computer Science
 	* Purdue University, USA
 	* August 2015 - present
+	* Advisor : [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg)
 * B.S., Computer Science
 	* National Tsing Hua University, Hsinchu, Taiwan
 	* September 2010 - June 2013
-
+	* Advisor : [Youn-Long Lin](http://www.cs.nthu.edu.tw/~ylin/)
 ## Work Experience
 * Research Assistant
 	* Purdue University, USA
 	* August 2016 - present
+	* Advisor : [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg)
 * Research Assistant
 	* Academia Sinica, Taipei, Taiwan
 	* January 2015 - July 2015
+	* Advisor : [Jan-Ming Ho](https://www.iis.sinica.edu.tw/pages/hoho/)
 
 ## Publications
 - Fang, C.-H., Theera-Ampornpunt, N., Roth, M. A., Grama, A., & Chaterji, S., "Aikyatan: mappingdistal regulatory elements using convolutional learning on gpu." *BMC bioinformatics*(2019).
