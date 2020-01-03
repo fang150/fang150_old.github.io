@@ -4,7 +4,7 @@ permalink: /data-wrangling/
 title: "Data Wrangling projects"
 author_profile: true
 header:
-  image: "/images/purdue_cover.jpg"
+  image: "/images/winter_cover.png"
 ---
 
 
