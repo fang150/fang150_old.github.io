@@ -12,9 +12,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : "Chih-Hao Fang"
-description              : "PhD student 
-                          \n 
-                          Computer Science Department"
+description              : "Random Stuff"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -88,9 +86,7 @@ analytics:
 author:
   name             : "Chih-Hao Fang"
   avatar           : "/images/armstrong.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student 
-  \n 
-  Computer Science Department"
+  bio              :  "Random Stuff"
   location         : "West Lafayette,IN"
   email            :
   uri              :
