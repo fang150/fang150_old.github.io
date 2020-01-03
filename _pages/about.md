@@ -11,19 +11,19 @@ some text
 
 ## Education
 * Ph.D., Computer Science
-	** Purdue University, USA
-	** August 2015 - present
+	* Purdue University, USA
+	* August 2015 - present
 * B.S., Computer Science
-	** National Tsing Hua University, Hsinchu, Taiwan
-	** September 2010 - June 2013
+	* National Tsing Hua University, Hsinchu, Taiwan
+	* September 2010 - June 2013
 
 ## Work Experience
 * Research Assistant
-	** Purdue University, USA
-	** August 2016 - present
+	* Purdue University, USA
+	* August 2016 - present
 * Research Assistant
-	** Academia Sinica, Taipei, Taiwan
-	** January 2015 - July 2015
+	* Academia Sinica, Taipei, Taiwan
+	* January 2015 - July 2015
 
 ## Publications
 - Fang, C.-H., Theera-Ampornpunt, N., Roth, M. A., Grama, A., & Chaterji, S., "Aikyatan: mappingdistal regulatory elements using convolutional learning on gpu." *BMC bioinformatics*(2019).
