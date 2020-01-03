@@ -17,20 +17,4 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 # documentation links
-docs:
-  - title: Getting Started
-    children:
-      - title: "About"
-        url: /about/
-  - title: Getting Starteds
-    children:
-      - title: "About"
-        url: /about/
-    - title: Getting Startedddd
-    children:
-      - title: "About"
-        url: /about/
-    - title: Getting Startedsds
-    children:
-      - title: "About"
-        url: /about/
+
