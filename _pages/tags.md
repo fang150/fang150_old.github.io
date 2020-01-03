@@ -4,5 +4,5 @@ permalink: /tags/
 layout: tags
 author_profile: true
 header:
-  image: "/images/gate.jpg"
+  image: "/images/lab.jpg"
 ---

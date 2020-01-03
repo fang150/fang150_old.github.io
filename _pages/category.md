@@ -4,5 +4,5 @@ layout: categories
 permalink: /categories/
 author_profile: true
 header:
-  image: "/images/lab.jpg"
+  image: "/images/winter_cover.jpg"
 ---
