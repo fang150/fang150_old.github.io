@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Chih-Hao Fang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Chih-Hao Fang"
-  location         : "Chih-Hao Fang"
+  bio              : "Random Stuff"
+  location         : "West Lafayette,IN"
   email            :
   links:
     - label: "Email"
