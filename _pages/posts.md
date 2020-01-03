@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive
 permalink: /archive/
 title: "Posts"
 author_profile: true
