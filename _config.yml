@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Chih-Hao Fang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/armstrong.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Random Stuff"
   location         : "West Lafayette,IN"
   email            :
