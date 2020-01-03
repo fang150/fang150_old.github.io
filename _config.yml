@@ -113,7 +113,8 @@ author:
   location         : "West Lafayette,IN"
   email            :
   github           : "fang150"
-  twitter           : "ChihHaoFang1"
+  twitter          : "ChihHaoFang1"
+  linkedin         ß: "fang-chih-hao-266013118"
   links: 
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -133,6 +134,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      # url: "https://www.linkedin.com/in/"
 
 # Site Footer
 footer:
