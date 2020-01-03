@@ -114,7 +114,7 @@ author:
   email            :
   github           : "fang150"
   twitter           : "ChihHaoFang1"
-  links:
+  links: 
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
