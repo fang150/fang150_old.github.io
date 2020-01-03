@@ -1,8 +1,8 @@
 ---
-title: "Test Post"
+title: "Tests Post"
 date: 2018-01-28
 tags: [matrix computation, numerical linear algebra]
-category: neural network
+category: dev
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "matrix computation, numerical linear algebra, here kind of like subtitle"
