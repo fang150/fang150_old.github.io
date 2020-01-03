@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /yoyo/
+permalink: /machine-learning/
 title: "der siu"
 author_profile: true
 header:
