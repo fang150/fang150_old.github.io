@@ -4,7 +4,7 @@ date: 2018-01-28
 tags: [matrix computation, numerical linear algebra]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "matrix computation, numerical linear algebra, here kind of like subtitle"
 mathjax: "true"
 ---
 
