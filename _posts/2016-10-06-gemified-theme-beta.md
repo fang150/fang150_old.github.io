@@ -1,5 +1,5 @@
 ---
-title:  "Gemified Theme -- Beta Release"
+title:  "Test Post 2"
 last_modified_at: 2018-03-20T16:01:04-04:00
 categories: 
   - category3
