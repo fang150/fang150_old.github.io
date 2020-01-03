@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /archive/
-title: "Archives"
+title: "Archive"
 author_profile: true
 header:
   image: "/images/winter_cover.jpg"
