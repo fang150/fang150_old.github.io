@@ -1,12 +1,10 @@
 ---
-layout: archive
-permalink: /posts/
-title: "Posts"
+layout: posts
+permalink: /data-wrangling/
+title: "Data Wrangling projects"
 author_profile: true
 header:
-  image: "/images/purdue.jpg"
+  image: "/images/fort point.png"
 ---
-
-
 
 

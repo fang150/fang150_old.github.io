@@ -3,7 +3,7 @@ title: "Data Wrangling Project"
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
 header:
-  image: "/images/armstrong.jpg"
+  image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
@@ -61,9 +61,3 @@ Here's some math:
 $$z=x+y$$
 
 You can also put it inline $$z=x+y$$
-
-{% if page.mathjax %}
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-{% endif %}
