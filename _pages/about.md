@@ -6,8 +6,6 @@ header:
 toc: true
 ---
 
-## About Me
-some text
 
 ## Education
 * Ph.D., Computer Science
