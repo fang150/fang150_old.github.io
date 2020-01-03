@@ -2,7 +2,7 @@
 title: "Testss Possdsssdsdsddddts"
 date: 2018-01-28
 tags: [matrix computation, numerical linear algebra]
-categories: [Tech, Personal]
+categories: [category 1 , category 2]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "matrix computation, numerical linear algebra, here kind of like subtitle"
