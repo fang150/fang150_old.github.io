@@ -6,14 +6,17 @@ header:
 toc: true
 ---
 
+## About Me
+some text
 
 ## Education
 what about you
 
 ## Work Experience
-- d
- * d
-- k
+* d
+	* dd
+* k
+	* lkl
 
 ## Publications
 - Fang, C.-H., Theera-Ampornpunt, N., Roth, M. A., Grama, A., & Chaterji, S., "Aikyatan: mappingdistal regulatory elements using convolutional learning on gpu." *BMC bioinformatics*(2019).
