@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /data-wrangling/
-title: "Data Wrangling projects"
+permalink: /posts/
+title: "Posts"
 author_profile: true
 header:
   image: "/images/purdue.jpg"
