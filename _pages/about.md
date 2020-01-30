@@ -41,5 +41,5 @@ toc: true
 - Reviewer: International Conference on Data Mining (ICDM) 2019
 
 ## Talks
-- Interpretable and Fast Models for Personalized Genomics, *NVIDIA and IBM HPC and Life Sciences Workshop*, Purdue University, West Lafayette, IN, USA.
-- Reinforcement Learning for Optimal Treatment Policy using Structural Causal Model , *Regenstrief Center Graduate Student Seminar Series*, Purdue University, West Lafayette, IN, USA.
+- Reinforcement Learning for Optimal Treatment Policy using Structural Causal Model , *Regenstrief Center Graduate Student Seminar Series*, Purdue University, West Lafayette, IN, USA. 2020
+- Interpretable and Fast Models for Personalized Genomics, *NVIDIA and IBM HPC and Life Sciences Workshop*, Purdue University, West Lafayette, IN, USA. 2017
