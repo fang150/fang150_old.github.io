@@ -10,7 +10,7 @@ mathjax: "true"
 
 ## Truth Table For "If...., then...."
 
-| P | Q | If P, then Q |
+| A | B | If A, then B |
 |:--------|:-------:|--------:|
 | T   | T   | T   |
 | T   | F   | F   |
@@ -31,3 +31,9 @@ We want to proof "If A then B"
     2. or contradicting to facts, e.g. 2>1
 3. We then proof If A then B by contradiction
 
+
+## Reason
+
+1. The proposition "If A then B" is false only when A = True and B = False
+2. under either condition 1. or 2. , we will have the conclusion that  (A = True and B = False) is False and the complement of (A = True and B = False) always leads to "If A, then B" is True.
+3. Thus, we then proof If A then B by contradiction. (A $$\cap$$ ~B = $$\phi$$ ).
