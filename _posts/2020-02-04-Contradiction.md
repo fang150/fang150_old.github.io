@@ -29,11 +29,11 @@ We want to proof "If A then B"
 2. Derive (A is True and B is False) to a contradiction.
     1. Possibly contradicting to original assumptions
     2. or contradicting to facts, e.g. 2>1
-3. We then proof If A then B by contradiction
+3. We then proof "If A then B" by contradiction
 
 
 ## Reason
 
 1. The proposition "If A then B" is False only when A = True and B = False
 2. Under condition either 1. or 2. , we have the conclusion that  (A = True and B = False) is False and the complement of (A = True and B = False) always leads to "If A, then B" is True.
-3. Thus, we then proof "If A theNn B" by contradiction. That is, (A $$\cap$$ ~B = $$\phi$$ ).
+3. Thus, we then proof "If A then B" by contradiction. That is, (A $$\cap$$ ~B = $$\phi$$ ).
