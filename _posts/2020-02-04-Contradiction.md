@@ -17,5 +17,6 @@ mathjax: "true"
 |----
 | F   | T   | T   |
 | F   | F   | T   |
+|=====
 {: rules="groups"}
 
