@@ -20,9 +20,13 @@ We define Counterfactual Explanations as statements taking the form:
 
 ## Adversarial Perturbations and Counterfactual Explanations
 
-ss
+### Adversarial Example
+* $$x_{adv}=x+\epsilon \times\text{sign(} \nabla f_{x}(x,y)\text{  )}$$
+* Invisible to human eyes. 
 
+![Adversarial Example (FGSM)](/images/adv_example.png)
 
 ## References
 
 * [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/pdf/1711.00399.pdf)
+* [Explaining and Harnessing Adversarial Examples](https://arxiv.org/pdf/1412.6572.pdf)
