@@ -11,12 +11,12 @@ mathjax: "true"
 ## Counterfactual Explanations
 
 
-\textit{"You were denied a loan because your annual income was £30,000. If your income had been £45,000, you would have been offered a loan."}
+*"You were denied a loan because your annual income was £30,000. If your income had been £45,000, you would have been offered a loan."*
 
 
 We define Counterfactual Explanations as statements taking the form:
 
-\textit{"Score p was returned because variables V had values (v1,v2,...) associated with them. If V instead had values (v1',v2',...), and all other variables had remained constant, score p' would have been returned."}
+*"Score p was returned because variables V had values (v1,v2,...) associated with them. If V instead had values (v1',v2',...), and all other variables had remained constant, score p' would have been returned."*
 
 ## Adversarial Perturbations and Counterfactual Explanations
 
