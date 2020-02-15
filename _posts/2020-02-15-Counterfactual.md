@@ -10,9 +10,9 @@ mathjax: "true"
 
 ## Counterfactual Explanations
 
-\begin{align}
+\begin{align*}
 \text{"You were denied a loan because your annual income was £30,000. If your income had been £45,000, you would have been offered a loan."}
-\end{align}
+\end{align*}
 
 We define Counterfactual Explanations as statements taking the form:
 
