@@ -22,7 +22,7 @@ We define Counterfactual Explanations as statements taking the form:
 
 ### Adversarial Example
 * $$x_{adv}=x+\epsilon \times\text{sign(} \nabla f_{x}(x,y)\text{  )}$$
-* Invisible to human eyes. 
+* Invisible to human eyes (see the Figure below. Source from [here](https://arxiv.org/pdf/1412.6572.pdf).). 
 
 ![Adversarial Example (FGSM)](/images/adv_example.png)
 
