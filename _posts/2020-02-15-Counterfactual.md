@@ -20,16 +20,6 @@ mathjax: "true"
 
 ## Adversarial Examples versus Counterfactual Examples
 
-*"One of the more challenging aspects of Adversarial Perturbations
-is that these small perturbations of an image are barely human perceptible,
-but result in drastically different classifier responses. Informally, this
-appears to happen because the newly generated images do not lie in the
-“space of real-images,” but slightly outside it. This phenomenon serves
-as an important reminder that when computing counterfactuals by
-searching for a close possible world, it is at least as important that the
-solution found comes from a “possible world” as it is that it is close to the
-starting example. "*
-
 
 ### Adversarial Example
 * $$x_{adv}=x+\epsilon \times\text{sign(} \nabla f_{x}(x,y)\text{  )}$$
@@ -40,7 +30,11 @@ starting example. "*
 
 ### Counterfactual Example
 
-* $$x_{c}=x+v$$, where we desire $$v$$ only changes few variables to $$x$$.
+* $$x_{c}=x+v$$, where $$v$$ only modifies few variables to $$x$$.
+
+
+## Problem Formulation
+
 
 
 ## References
