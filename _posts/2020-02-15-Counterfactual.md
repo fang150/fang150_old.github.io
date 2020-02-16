@@ -63,15 +63,28 @@ $$ \arg\min_{x'_i}   \mathcal{L}(f(x'_i),y^c_i) +d(x_i,x'_i) $$
 ## Empirical Results
 
 ### LSAT Dataset
-description of LSAT dataset 
+* prediction output : student's first-year average grade.
+* features :  race, grade-point average prior to law school, and law
+school entrance exam scores.
+
+
+### Counterfactual Question
+*“What would have to be changed to give a predicted score of 0?”*
 
 ### Squared Euclidean Distance Results
+
+![Adversarial Example (FGSM)](/images/unnormalized_L2.png )
+*(Counterfactual Examples generated using Squared Euclidean Distance. [Img Src.](https://arxiv.org/pdf/1711.00399.pdf) )*
 
 
 ### Scaled Squared Euclidean Distance Results
 
-### Scaled L1 Norm Results
+![Adversarial Example (FGSM)](/images/normalized_L2.png )
+*(Counterfactual Examples generated using Scaled Squared Euclidean Distance. [Img Src.](https://arxiv.org/pdf/1711.00399.pdf) )*
 
+### Scaled L1 Norm Results
+![Adversarial Example (FGSM)](/images/normalized_L1.png )
+*(Counterfactual Examples generated using Squared L1 Norm. [Img Src.](https://arxiv.org/pdf/1711.00399.pdf) )*
 
 
 
