@@ -55,7 +55,9 @@ $$ \arg\min_{x'_i}   \mathcal{L}(f(x'_i),y^c_i) +d(x_i,x'_i) $$
 
 * Scaled L1 Norm :
 
-\begin{align}  d(x_i,x^c_i) = \sum^d_{k=1} (x_{i,k} - x^c_{i,k})^2 \end{align}
+\begin{align}  d(x_i,x^c_i) = \sum^d_{k=1} \frac{|x_{i,k} - x^c_{i,k}|}{MAP_k} \\
+MAP_k = ss
+ \end{align}
 
 ## References
 
