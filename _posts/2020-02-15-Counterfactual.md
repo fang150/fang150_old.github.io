@@ -34,7 +34,7 @@ mathjax: "true"
 
 
 ## Problem Formulation
-Given function $$f: X \mapsto Y$$ and $$n$$ number of sample points, $$(x_1,y_1),\dots,(x_n,y_n)$$ sampled *i.i.d.* from distribution$$P(X,Y)$$, for each sample point $$(x_i,y_i)$$, we want to find the counterfactual example $$(x^c_i,y^c_i)$$ where $$d(x^c_i,x_i)$$ such that $$f(x^c_i)=y^c_i$$ and $$y_i \neq y^c_i$$.
+Given function $$f: X \mapsto Y$$ and $$n$$ number of sample points, $$(x_1,y_1),\dots,(x_n,y_n)$$ sampled *i.i.d.* from distribution $$P(X,Y)$$, for each $$(x_i,y_i)$$, we want to find the counterfactual example $$(x^c_i,y^c_i)$$ where $$d(x^c_i,x_i)$$ such that $$f(x^c_i)=y^c_i$$ and $$y_i \neq y^c_i$$.
 
 
 
