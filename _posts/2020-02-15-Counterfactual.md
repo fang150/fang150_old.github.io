@@ -44,6 +44,11 @@ This can be done by solving the following optimization probblem:
 $$ \arg\min_{x'_i}   \mathcal{L}(f(x'_i),y^c_i) +d(x_i,x'_i) $$
 
 
+### Choice of Distance Measure
+
+* L2 Norm : 
+* Scaled L2 Norm :
+* Scaled L1 Norm :
 
 ## References
 
