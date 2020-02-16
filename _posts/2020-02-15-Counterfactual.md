@@ -57,7 +57,7 @@ $$ \arg\min_{x'_i}   \mathcal{L}(f(x'_i),y^c_i) +d(x_i,x'_i) $$
 
 \begin{align}  d(x_i,x^c_i) = \sum^d_{k=1} \frac{|x_{i,k} - x^c_{i,k}|}{MAP_k} \quad \text{where,} 
  \end{align} 
-\begin{align}  {MAP_k} = 
+\begin{align}  {MAP_k} = median_j (|x_{j,k}  -median_l(x_{l,k})|)
  \end{align} 
 
 
