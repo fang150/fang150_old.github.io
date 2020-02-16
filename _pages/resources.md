@@ -10,7 +10,7 @@ toc: true
 ## Advice 
 * [Terrence Tao](https://terrytao.wordpress.com/)
 * [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
-
+* [The Role of Fun in Research, Teaching, and Learning](https://www.youtube.com/watch?v=Lm8WHM0glHE)
 	
 ## Research Blogs
 
