@@ -30,7 +30,7 @@ mathjax: "true"
 
 ### Counterfactual Example
 
-* $$x_{c}=x+v$$, where $$v$$ only modifies few variables to $$x$$.
+* $$x_{c}=x+v$$, where $$v$$ only modifies few variables to $$x$$ , $$n$$ number of sample points, $$(x_1,y_1),\dots,(x_n,y_n)$$ sampled from distribution$$P(X,Y)$$. 
 
 
 ## Problem Formulation
