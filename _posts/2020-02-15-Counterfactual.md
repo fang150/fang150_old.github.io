@@ -18,7 +18,7 @@ mathjax: "true"
 
 *"Score p was returned because variables V had values (v1,v2,...) associated with them. If V instead had values (v1',v2',...), and all other variables had remained constant, score p' would have been returned."*
 
-## Adversarial Perturbations and Counterfactual Explanations
+## Adversarial Examples versus Counterfactual Examples
 
 ### Adversarial Example
 * $$x_{adv}=x+\epsilon \times\text{sign(} \nabla f_{x}(x,y)\text{  )}$$
@@ -26,6 +26,11 @@ mathjax: "true"
 
 ![Adversarial Example (FGSM)](/images/adv_example.png )
 *(Adversarial Example generated using FGSM method. [Img Src.](https://arxiv.org/pdf/1412.6572.pdf) )*
+
+### Counterfactual Example
+
+* $$x_{c}=x+v$$, where we desire $$v$$ only changes few variables to $$x$$ such that $$x_c$$ is interpretabble.
+
 
 ## References
 
