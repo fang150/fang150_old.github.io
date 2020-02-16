@@ -41,7 +41,7 @@ Given function $$f: X \mapsto Y$$ and $$n$$ number of sample points, $$(x_1,y_1)
 
 This can be done by solving the following optimization probblem:
 
-$$ \arg\min_{x'_i}  loss(f(x'_i),y^c_i) +d(x_i,x'_i) $$
+$$ \arg\min_{x'_i}  \mathca{L}(f(x'_i),y^c_i) +d(x_i,x'_i) $$
 
 
 
