@@ -12,7 +12,10 @@ toc: true
 * [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 
 	
-## Fun
+## Research Blogs
+
+* [Off the convex path](https://www.offconvex.org/)
+* [Lil'Log](https://lilianweng.github.io/lil-log/)
 
 
 
