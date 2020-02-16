@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Resources"
+    url: /resources/
   - title: "Archive"
     url: /archive/
   - title: "Tag"
