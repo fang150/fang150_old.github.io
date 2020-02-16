@@ -25,7 +25,7 @@ mathjax: "true"
 * Invisible to human eyes (see the Figure below.). 
 
 ![Adversarial Example (FGSM)](/images/adv_example.png )
-*(Adversarial Example generated using FGSM method. [Img Source](https://arxiv.org/pdf/1412.6572.pdf) )*
+*(Adversarial Example generated using FGSM method. [Img Src.](https://arxiv.org/pdf/1412.6572.pdf) )*
 
 ## References
 
