@@ -46,11 +46,16 @@ $$ \arg\min_{x'_i}   \mathcal{L}(f(x'_i),y^c_i) +d(x_i,x'_i) $$
 
 ### Choice of Distance Measure
 
-* L2 Norm : 
+* Squared Euclidean Distance : 
 
-\begin{align} \frac{y}{z}= \beta_{IV} \frac{x}{z} +\frac{\mu}{z}  \end{align}
-* Scaled L2 Norm :
+\begin{align}  d(x_i,x^c_i) = \sum^d_{k=1} (x_{i,k} - x^c_{i,k})^2 \end{align}
+* Scaled Squared Euclidean Distance Norm :
+
+\begin{align}  d(x_i,x^c_i) = \sum^d_{k=1} (x_{i,k} - x^c_{i,k})^2 \end{align}
+
 * Scaled L1 Norm :
+
+\begin{align}  d(x_i,x^c_i) = \sum^d_{k=1} (x_{i,k} - x^c_{i,k})^2 \end{align}
 
 ## References
 
