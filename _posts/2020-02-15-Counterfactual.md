@@ -87,6 +87,20 @@ school entrance exam scores.
 *(Counterfactual Examples generated using Squared L1 Norm. [Img Src.](https://arxiv.org/pdf/1711.00399.pdf) )*
 
 
+* Person 1: If your LSAT was 34.0, you would have an
+average predicted score (0).
+* Person 2: If your LSAT was 32.4, you would have an
+average predicted score (0).
+* Person 3: If your LSAT was 33.5, and you were ‘white’,
+you would have an average predicted score (0).
+* Person 4: If your LSAT was 35.8, and you were ‘white’,
+you would have an average predicted score (0).
+* Person 5: If your LSAT was 34.9, you would have an
+average predicted score (0).
+
+
+
+
 
 ## References
 
