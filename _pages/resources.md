@@ -7,15 +7,12 @@ toc: true
 ---
 
 
-## A
-* [test](https://www.cs.purdue.edu)
+## Math
+* [Terrence Tao](https://terrytao.wordpress.com/)
 
 	
-## B
+## Fun
 
 
-## C
 
-
-## D
 
