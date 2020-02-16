@@ -30,11 +30,11 @@ mathjax: "true"
 
 ### Counterfactual Example
 
-* $$x_{c}=x+v$$, where $$v$$ only modifies few variables to $$x$$ , $$n$$ number of sample points, $$(x_1,y_1),\dots,(x_n,y_n)$$ sampled from distribution$$P(X,Y)$$. 
+* $$x_{c}=x+v$$, where $$v$$ only modifies few variables to $$x$$. 
 
 
 ## Problem Formulation
-Given function $$f: X \mapsto Y$$. 
+Given function $$f: X \mapsto Y$$ and $$n$$ number of sample points, $$(x_1,y_1),\dots,(x_n,y_n)$$ sampled from distribution$$P(X,Y)$$, for each sample point $$(x_i,y_i)$$, we want to find the counterfactual example $$(x^c_i,y^c_i),y^_i\neq y_i,$$ such that $$f(x^c_i)=y^c_i$$.
 
 
 
