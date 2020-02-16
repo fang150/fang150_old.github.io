@@ -39,6 +39,10 @@ Given function $$f: X \mapsto Y$$ and $$n$$ number of sample points, $$(x_1,y_1)
 1. $$d(x^c_i,x_i) \leq \epsilon $$, for some $$d(\cdot,\cdot)$$
 2. $$f(x^c_i)=y^c_i$$, where $$y_i \neq y^c_i$$.
 
+This can be done by solving the following optimization probblem:
+
+$$ \arg\min_{x'_i}  loss(f(x'_i),y^c_i) +d(x_i,x'_i) $$
+
 
 
 ## References
