@@ -34,6 +34,7 @@ mathjax: "true"
 
 
 ## Problem Formulation
+Given function $$f: X \mapsto Y$$. 
 
 
 
