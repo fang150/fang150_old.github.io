@@ -104,7 +104,7 @@ average predicted score (0).
 
 ### Structural Causal Model
 
-A causal model is a triple $$M= <U,V,F>$$ such that $$U$$ is a set of exogenous variables, $$V$$ is a set of endogenous variables that are determined by variables inside the model, and $$F$$ is a set of functions that determine the value of each $$v_i \in V$$ (up to some independent noise) based on values of $$U_i \in U$$ and $$Pa_i \in V \ v_i$$
+A causal model is a triple $$M= <U,V,F>$$ such that $$U$$ is a set of exogenous variables, $$V$$ is a set of endogenous variables that are determined by variables inside the model, and $$F$$ is a set of functions that determine the value of each $$v_i \in V$$ (up to some independent noise) based on values of $$U_i \in U$$ and $$Pa_i \in V$$ \ $$v_i$$.
 
 
 ## References
