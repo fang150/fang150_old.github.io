@@ -143,7 +143,7 @@ $$
 Given causal graph $$G$$ over $$U\cup V$$ and mechanisms $$F$$, for each $$v \in V$$, we have $$v=f(v_{p1},\dots,v_{pk}) + \epsilon$$, where $$\{v_{p1},\dots,v_{p_k}\}$$ are the parents of $$v$$. We can define the $$Distance$$ for the nodes $$v \in V$$ as follows:
 
 \begin{align} 
-    \text{DistCausal}_v (x_v,x_v^{cf}) 
+    \text{DistCausal}_v (x_v,x_v^{cf}) = \text{Distance}_v (x_v,f(x^{cf}_{v_{p1}},\dots,x^{cf}_{v_{pk}}  ))
 \end{align}
 
 ## References
