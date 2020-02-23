@@ -113,11 +113,15 @@ Let $$<x_i,y_i>$$ be the input features and the predicted outcome from $$h$$, an
 ### Generative Model
 
 \begin{align} 
-\bullet \Pr(x^{cf}|y',x) \quad \text{such that } x^{cf} \text{ belings to class } y' & \\
+\bullet \Pr(x^{cf}|y',x) \quad \text{such that } x^{cf} \text{ belings to class } y' 
+\end{align}
 
-\bullet \text{encoder} q(z|x,y') & \\
+\begin{align} 
+\bullet \text{encoder} q(z|x,y') 
+\end{align}
 
-\bullet \text{decoder} p(x^{cf}|z,y') &
+\begin{align} 
+\bullet \text{decoder} p(x^{cf}|z,y')
 \end{align}
 
 
