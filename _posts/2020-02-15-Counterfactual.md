@@ -112,9 +112,11 @@ Let $$<x_i,y_i>$$ be the input features and the predicted outcome from $$h$$, an
 
 ### Generative Model 
 
-1) maximize $\Pr(x^{cf}|y',x)$ such that $x^{cf}$ belings to class $y'$
-2) encoder $q(z|x,y')$
-3) decoder $p(x^{cf}|z,y')$
+maximize $\Pr(x^{cf}|y',x)$ such that $x^{cf}$ belings to class $y'$
+
+encoder $q(z|x,y')$
+
+decoder $p(x^{cf}|z,y')$
 
 ### Evidence lower bound (ELBOs)
 
