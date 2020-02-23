@@ -122,7 +122,7 @@ decoder $p(x^{cf}|z,y')$
 ### Evidence lower bound (ELBOs)
 
 \begin{align} 
-\bullet \Pr(x^{cf}|y',x) 
+\bullet \Pr(x^{cf}|y',x) \text{such that}
 \end{align}
 
 \begin{align} 
