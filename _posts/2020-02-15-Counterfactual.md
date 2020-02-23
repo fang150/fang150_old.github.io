@@ -100,7 +100,10 @@ average predicted score (0).
 
 
 
-## Feasibility of Counterfactual Examples [The following contents are mainly from here.](https://arxiv.org/pdf/1912.03277.pdf)
+## Feasibility of Counterfactual Examples [Source](https://arxiv.org/pdf/1912.03277.pdf)
+
+### Structural Causal Model
+    A causal model is a triple $$M= <U,V,F>$$ such that $$U$$ is a set model, and $$F$$ is a set of functions that determine the value of each $$v_i \in V$$
 
 
 ## References
