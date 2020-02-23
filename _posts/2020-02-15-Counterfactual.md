@@ -122,7 +122,7 @@ decoder $p(x^{cf}|z,y')$
 ### Evidence lower bound (ELBOs)
 
 \begin{align}
-\dot \Pr(x^{cf}\|y',x) \text{such that} x^{cf} \text{belings to class} y'
+\dot \Pr(x^{cf}\|y',x) 
 \end {align}
 
 \begin{align} 
