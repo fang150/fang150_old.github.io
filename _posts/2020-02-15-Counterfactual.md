@@ -116,7 +116,7 @@ Let $$<x_i,y_i>$$ be the input features and the predicted outcome from $$h$$, an
 * encoder $q(z|x,y')$
 * decoder $p(x^{cf}|z,y')$
 
-### Evidence lower bound (ELBO)
+### Evidence lower bound (ELBOs)
 
 \begin{align} 
 \ln{\Pr(x^{cf}|y',x)} \geq \mathbb{E}_{Q(z|x,y')} \ln{\Pr(x^{cf}|z,y',x)} - \mathbb{KL}(Q(z|x,y'||\Pr(z|y',x)))
