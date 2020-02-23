@@ -117,11 +117,11 @@ Let $$<x_i,y_i>$$ be the input features and the predicted outcome from $$h$$, an
 \end{align}
 
 \begin{align} 
-\bullet \text{ encoder} q(z|x,y') 
+\bullet \text{ encoder} \quad q(z|x,y') 
 \end{align}
 
 \begin{align} 
-\bullet \text{ decoder} p(x^{cf}|z,y')
+\bullet \text{ decoder} \quad p(x^{cf}|z,y')
 \end{align}
 
 
