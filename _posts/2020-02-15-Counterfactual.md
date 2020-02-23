@@ -100,9 +100,9 @@ average predicted score (0).
 
 
 
-## Feasibility of Counterfactual Examples [Source](https://arxiv.org/pdf/1912.03277.pdf)
+## Feasibility of Counterfactual Examples [(Src.)](https://arxiv.org/pdf/1912.03277.pdf)
 
-### Structural Causal Model [Causality](http://bayes.cs.ucla.edu/BOOK-2K/)
+### Structural Causal Model [(Pearl)](http://bayes.cs.ucla.edu/BOOK-2K/)
 
 A causal model is a triple $$M= <U,V,F>$$ such that $$U$$ is a set of exogenous variables, $$V$$ is a set of endogenous variables that are determined by variables inside the model, and $$F$$ is a set of functions that determine the value of each $$v_i \in V$$ (up to some independent noise) based on values of $$U_i \in U$$ and $$Pa_i \in V$$ \ $$v_i$$.
 
