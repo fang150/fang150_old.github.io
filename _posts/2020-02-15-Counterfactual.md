@@ -142,12 +142,16 @@ $$
 
 Given causal graph $$G$$ over $$U\cup V$$ and mechanisms $$F$$, for each $$v \in V$$, we have $$v=f(v_{p1},\dots,v_{pk}) + \epsilon$$, where $$\{v_{p1},\dots,v_{p_k}\}$$ are the parents of $$v$$. We can define the $$Distance$$ for the nodes $$v \in V$$ as follows:
 
-\begin{align} 
-    \text{DistCausal}_v (x_v,x_v^{cf}) = \text{Distance}_v (x_v,f(x_{v_{p1}}^{cf},\dots,x_{v_{pk}}^{cf}  ) )  
-\end{align}
-
-
 $$\text{DistCausal}_v (x_v,x_v^{cf}) = \text{Distance}_v (x_v,f(x_{v_{p1}}^{cf},\dots,x_{v_{pk}}^{cf}  ) )$$
+
+For the nodes $$u \in U $$, we can use L1 or L2 distance measure. We can now define the distance measure as follows:
+
+$$\text{Distance} (x,x^{cf}) = \sum_{u \in U} \text{Distance}_v (x_u,x_u^{cf}) + \sum_{v \in V} \text{DistCausal}_v (x_v,x_v^{cf}).$$
+
+
+
+
+
 ## References
 
 * [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/pdf/1711.00399.pdf)
