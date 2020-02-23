@@ -110,12 +110,10 @@ A causal model is a triple $$M= <U,V,F>$$ such that $$U$$ is a set of exogenous 
 
 Let $$<x_i,y_i>$$ be the input features and the predicted outcome from $$h$$, and let $$y'$$ be the desired output class. Let $$M=<U,V,F>$$ be a causal model over $$\mathcal{X}$$ such that each feature is in $$U 	\cup V$$. Then, a counterfactual $$<x_{cf},y_{cf}>$$ is global feasible if it is valid $$(y_{cf}=y')$$, the change from $$x_i$$ to $$x_{cf}$$ satisfies all constraints entailed by the causal model, and all exogenous variabbles $$x^{exog}=U$$ lie within the input domain.
 
-### Generative Model 
+### Generative Model
 
 \begin{align}
-
 \dot \Pr(x^{cf}|y',x) \text{such that} x^{cf} \text{belings to class} y'
-
 \end {align}
 encoder $q(z|x,y')$
 
