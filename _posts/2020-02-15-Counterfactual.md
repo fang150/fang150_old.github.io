@@ -121,9 +121,9 @@ decoder $p(x^{cf}|z,y')$
 
 ### Evidence lower bound (ELBOs)
 
-\begin{align}
-\dot \Pr(x^{cf}\|y',x) 
-\end {align}
+\begin{align} 
+\ln{\Pr(x^{cf}|y',x)} \geq \mathbb{E}_{Q(z|x,y')} \ln{\Pr(x^{cf}|z,y',x)} - \mathbb{KL}(Q(z|x,y'||\Pr(z|y',x)))
+\end{align}
 
 \begin{align} 
 \ln{\Pr(x^{cf}|y',x)} \geq \mathbb{E}_{Q(z|x,y')} \ln{\Pr(x^{cf}|z,y',x)} - \mathbb{KL}(Q(z|x,y'||\Pr(z|y',x)))
