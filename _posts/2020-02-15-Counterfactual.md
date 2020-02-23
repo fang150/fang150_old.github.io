@@ -131,6 +131,13 @@ Let $$<x_i,y_i>$$ be the input features and the predicted outcome from $$h$$, an
 \ln{\Pr(x^{cf}|y',x)} \geq \mathbb{E}_{Q(z|x,y')} \ln{\Pr(x^{cf}|z,y',x)} - \mathbb{KL}(Q(z|x,y'||\Pr(z|y',x)))
 \end{align}
 
+### Approximation
+
+
+ $$\min - \mathbb{E}_{Q(z|x,y')} \ln{\Pr(x^{cf}|z,y',x)} + \mathbb{KL}(Q(z|x,y'||\Pr(z|y',x))) \\
+ \approx \min \mathbb{E}_{Q(z|x,y')} [\text{Dist(}x,x^{cf}\text{)} + \lambda \text{HingeLoss(}h(x^{cf},y',\beta)\text{)} ] + \mathbb{KL}(Q(z|x,y'||\Pr(z|y',x)))
+$$
+
 
 ## References
 
