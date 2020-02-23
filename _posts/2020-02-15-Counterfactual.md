@@ -145,7 +145,9 @@ Given causal graph $$G$$ over $$U\cup V$$ and mechanisms $$F$$, for each $$v \in
 \begin{align} 
     \text{DistCausal}_v (x_v,x_v^{cf}) = \text{Distance}_v (x_v,f(x_{v_{p1}}^{cf},\dots,x_{v_{pk}}^{cf}  ) )  
 \end{align}
-ee
+
+
+$$(x_{v_{p1}}^{cf},\dots,x_{v_{pk}}^{cf}  )$$
 ## References
 
 * [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/pdf/1711.00399.pdf)
