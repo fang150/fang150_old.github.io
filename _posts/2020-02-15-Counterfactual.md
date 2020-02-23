@@ -106,6 +106,9 @@ average predicted score (0).
 
 A causal model is a triple $$M= <U,V,F>$$ such that $$U$$ is a set of exogenous variables, $$V$$ is a set of endogenous variables that are determined by variables inside the model, and $$F$$ is a set of functions that determine the value of each $$v_i \in V$$ (up to some independent noise) based on values of $$U_i \in U$$ and $$Pa_i \in V$$ \ $$v_i$$.
 
+### Global Feasibility
+
+Let $$<x_i,y_i>$$ be the input features and the predicted outcome from $$h$$, and let $$y'$$ be the desired output class. LET $$M=<U,V,F>$$ be a causal model over $$\mathcal{X}$$ such that each feature is in $$U 	\cup V$$. Then, a counterfactual $$<x_{cf},y_{cf}>$$ is global feasible if it is valid $$(y_{cf}=y')$$, the change from $$x_i$$ to $$x_{cf}$$ satisfies all constraints entailed by the causal model, and all exogenous variabbles $$x^{exog}=U$$ lie within the input domain.
 
 ## References
 
