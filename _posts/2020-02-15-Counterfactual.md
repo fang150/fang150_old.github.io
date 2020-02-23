@@ -112,7 +112,7 @@ Let $$<x_i,y_i>$$ be the input features and the predicted outcome from $$h$$, an
 
 ### Generative Model 
 
-* $$\Pr(x^{cf}|y',x)$$ 
+* $$\Pr(x^{cf}|y',x)$$ such that $x^{cf}$ belings to class $y'$
 
 encoder $q(z|x,y')$
 
