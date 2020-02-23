@@ -108,7 +108,18 @@ A causal model is a triple $$M= <U,V,F>$$ such that $$U$$ is a set of exogenous 
 
 ### Global Feasibility
 
-Let $$<x_i,y_i>$$ be the input features and the predicted outcome from $$h$$, and let $$y'$$ be the desired output class. LET $$M=<U,V,F>$$ be a causal model over $$\mathcal{X}$$ such that each feature is in $$U 	\cup V$$. Then, a counterfactual $$<x_{cf},y_{cf}>$$ is global feasible if it is valid $$(y_{cf}=y')$$, the change from $$x_i$$ to $$x_{cf}$$ satisfies all constraints entailed by the causal model, and all exogenous variabbles $$x^{exog}=U$$ lie within the input domain.
+Let $$<x_i,y_i>$$ be the input features and the predicted outcome from $$h$$, and let $$y'$$ be the desired output class. Let $$M=<U,V,F>$$ be a causal model over $$\mathcal{X}$$ such that each feature is in $$U 	\cup V$$. Then, a counterfactual $$<x_{cf},y_{cf}>$$ is global feasible if it is valid $$(y_{cf}=y')$$, the change from $$x_i$$ to $$x_{cf}$$ satisfies all constraints entailed by the causal model, and all exogenous variabbles $$x^{exog}=U$$ lie within the input domain.
+
+### Generative Model 
+
+* maximize $$\Pr(x^{cf}|y',x)$$ such that $$x^{cf}$$ belings to class $$y'$$
+* encoder $$q(z|x,y')$$
+* decoder $$p(x^{cf}|z,y')$$
+
+### Evidence lower bound (ELBO)
+
+$$ \ln{\Pr(x^{cf}|y',x)} \geq \mathbb{E}_{Q(z|x,y')} \ln{\Pr(x^{cf}|z,y',x)} - \mathbb{KL}(Q(z|x,y'||\Pr(z|y',x)))$$
+
 
 ## References
 
