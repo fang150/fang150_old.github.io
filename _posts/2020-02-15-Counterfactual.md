@@ -113,16 +113,11 @@ Let $$<x_i,y_i>$$ be the input features and the predicted outcome from $$h$$, an
 ### Generative Model
 
 \begin{align} 
-\bullet \Pr(x^{cf}|y',x) \quad \text{such that } x^{cf} \text{ belings to class } y'
+\bullet \Pr(x^{cf}|y',x) \quad \text{such that } x^{cf} \text{ belings to class } y' & \\
+\bullet \text{encoder} q(z|x,y') & \\
+\bullet \text{decoder} p(x^{cf}|z,y') &
 \end{align}
 
-\begin{align} 
-\bullet encoder q(z|x,y')
-\end{align}
-
-\begin{align} 
-\bullet decoder p(x^{cf}|z,y')
-\end{align}  
 
 ### Evidence lower bound (ELBO)
 
