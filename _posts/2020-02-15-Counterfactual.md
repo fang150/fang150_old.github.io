@@ -112,7 +112,7 @@ Let $$<x_i,y_i>$$ be the input features and the predicted outcome from $$h$$, an
 
 ### Generative Model 
 
-* $$\Pr(x^{cf}|y',x)$$ s
+i) $$\Pr(x^{cf}|y',x)$$ s
 
 encoder $q(z|x,y')$
 
