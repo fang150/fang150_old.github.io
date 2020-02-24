@@ -64,8 +64,8 @@ $$ \arg\min_{x'_i}   \mathcal{L}(f(x'_i),y^c_i) +d(x_i,x'_i) $$
 
 ### LSAT Dataset
 * prediction output : student's first-year average grade.
-* features :  race, grade-point average prior to law school, and law
-school entrance exam scores.
+* features :  race, grade-point average (GPA) prior to law school, and law
+school entrance exam scores (LSAT).
 
 
 ### Counterfactual Question
