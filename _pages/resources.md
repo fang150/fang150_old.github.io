@@ -21,6 +21,6 @@ toc: true
 * [The Role of Fun in Research, Teaching, and Learning - by Erik Demaine](https://www.youtube.com/watch?v=Lm8WHM0glHE)
 * [Advice about life in general - by Warren Buffett ](https://www.youtube.com/watch?v=Tr6MMsoWAog&t=24s)
 * [Advice on Exchanging Ideas and Interdisciplinary Research - by John Milnor](https://www.youtube.com/watch?v=e8zR8Xnsbc8)
-
+* [You and your research - by Richard Hamming](http://www.math.ucsd.edu/~fan/teach/YouAndYourResearch.pdf)
 
 
