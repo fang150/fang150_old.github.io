@@ -121,7 +121,7 @@ Let $$<x_i,y_i>$$ be the input features and the predicted outcome from $$h$$, an
 \end{align}
 
 \begin{align} 
-\bullet \text{ decoder} \quad p(x^{cf}|z,y')
+\bullet \text{ decoder} \quad p(x^{cf}|z,y',x)
 \end{align}
 
 
