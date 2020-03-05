@@ -22,5 +22,6 @@ toc: true
 * [Advice about life in general - by Warren Buffett ](https://www.youtube.com/watch?v=Tr6MMsoWAog&t=24s)
 * [Advice on Exchanging Ideas and Interdisciplinary Research - by John Milnor](https://www.youtube.com/watch?v=e8zR8Xnsbc8)
 * [You and your research - by Richard Hamming](http://www.math.ucsd.edu/~fan/teach/YouAndYourResearch.pdf)
+* [Wat Zegt Ze Nou - by Margot Gerritsen](https://gerritsn.people.stanford.edu/)
 
 
