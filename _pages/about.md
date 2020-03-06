@@ -43,3 +43,13 @@ toc: true
 ## Talks
 - Reinforcement Learning for Optimal Treatment Policy using Structural Causal Model , *Regenstrief Center Graduate Student Seminar Series*, Purdue University, West Lafayette, IN, USA. 2020
 - Interpretable and Fast Models for Personalized Genomics, *NVIDIA and IBM HPC and Life Sciences Workshop*, Purdue University, West Lafayette, IN, USA. 2017
+
+## Awards
+- SIAM International Conference on Data Mining Travel Award, Cincinnati, Ohio, USA. 2020
+- Lynn Fellowship, Purdue University, West Lafayette, IN, USA. 2015 - 2016
+- Phi Tau Phi Award., National Tsing Hua University, Hsinchu, Taiwan. 2013
+- EECS Academic Achievement Award., National Tsing Hua University, Hsinchu, Taiwan. 2012
+	* ddd
+- Memorial Scholarship for Mr. Lin Hsiung-Chen., Taipei, Taiwan. 2012 
+- Calculus Gold Medal Award., National Central University, Taoyuan, Taiwan. 2010
+
