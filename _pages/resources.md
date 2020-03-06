@@ -23,5 +23,5 @@ toc: true
 * [Advice on Exchanging Ideas and Interdisciplinary Research - by John Milnor](https://www.youtube.com/watch?v=e8zR8Xnsbc8)
 * [You and your research - by Richard Hamming](http://www.math.ucsd.edu/~fan/teach/YouAndYourResearch.pdf)
 * [Wat Zegt Ze Nou - by Margot Gerritsen](https://gerritsn.people.stanford.edu/)
-* [Graduate research and writing - Monash University] (https://www.monash.edu/rlo/graduate-research-writing?fbclid=IwAR3m2QgWYR2EIAAel1jE9wYqnWiWKfOEKkKCIsryYfAKW6ijVrkRAGqACYs)
+* [Graduate research and writing - Monash University](https://www.monash.edu/rlo/graduate-research-writing?fbclid=IwAR3m2QgWYR2EIAAel1jE9wYqnWiWKfOEKkKCIsryYfAKW6ijVrkRAGqACYs)
 
