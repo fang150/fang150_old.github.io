@@ -49,7 +49,7 @@ toc: true
 - Lynn Fellowship, Purdue University, West Lafayette, IN, USA. 2015 - 2016
 - Phi Tau Phi Award., National Tsing Hua University, Hsinchu, Taiwan. 2013
 - EECS Academic Achievement Award., National Tsing Hua University, Hsinchu, Taiwan. 2012
-	* *Regenstrief Center Graduate Student Seminar Series*
 - Memorial Scholarship for Mr. Lin Hsiung-Chen., Taipei, Taiwan. 2012 
+	* *Presented to top 50 academically rated undergraduate students in Taiwan*
 - Calculus Gold Medal Award., National Central University, Taoyuan, Taiwan. 2010
-
+	* *Won first place among 800 freshmen students in National Central University*
