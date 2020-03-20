@@ -45,7 +45,7 @@ toc: true
 - Interpretable and Fast Models for Personalized Genomics, *NVIDIA and IBM HPC and Life Sciences Workshop*, Purdue University, West Lafayette, IN, USA. 2017
 
 ## Awards
-- SIAM International Conference on Data Mining Travel Award, Cincinnati, Ohio, USA. 2020
+- SIAM International Conference on Data Mining Travel Award (Cancelled due to COVID-19 outbreak), Cincinnati, Ohio, USA. 2020
 - Lynn Fellowship, Purdue University, West Lafayette, IN, USA. 2015 - 2016
 - Phi Tau Phi Award., National Tsing Hua University, Hsinchu, Taiwan. 2013
 - EECS Academic Achievement Award., National Tsing Hua University, Hsinchu, Taiwan. 2012
